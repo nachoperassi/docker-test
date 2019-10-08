@@ -1,0 +1,14 @@
+{
+  "name": "docker_test",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2"
+  }
+}
